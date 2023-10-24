@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  font-family: "Abel", sans-serif;
+  // height: 100vh;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  width: 100vw;
+
+  h1 {
+    font-size: 2rem;
+    font-weight: 600;
+    color: #fff;
+  }
+
+  h3 {
+    font-size: 1.1rem;
+    font-weight: 600;
+  }
+
+  p {
+    font-size: 1rem;
+    color: #fff;
+  }
+}
