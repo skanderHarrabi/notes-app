@@ -71,9 +71,9 @@ $ npm run dev
 
 These planned improvements will enhance the functionality and usability of the Notes application, making it a more comprehensive and user-friendly solution for taking notes.
 ### ScreenShots
+<img width="1504" alt="Screenshot 2023-10-24 at 05 12 34" src="https://github.com/skanderHarrabi/notes-app/assets/36156046/6b940d94-2877-452b-b7ba-b7544deedd17">
+<img width="1510" alt="Screenshot 2023-10-24 at 05 12 43" src="https://github.com/skanderHarrabi/notes-app/assets/36156046/280cb4aa-43e5-4873-b79c-af472211e9ca">
+<img width="1509" alt="Screenshot 2023-10-24 at 05 12 57" src="https://github.com/skanderHarrabi/notes-app/assets/36156046/62b9f92e-2ff4-4daf-88a7-39d2889cd750">
+<img width="1508" alt="Screenshot 2023-10-24 at 05 13 08" src="https://github.com/skanderHarrabi/notes-app/assets/36156046/795f3f0f-a6ac-4ac3-be72-91558948c901">
 
-<img width="1504" alt="Screenshot 2023-10-24 at 05 12 34" src="https://github.com/skanderHarrabi/note-app/assets/36156046/1c3d1da9-ef66-446f-84ba-e4f3e272517e">
-<img width="1510" alt="Screenshot 2023-10-24 at 05 12 43" src="https://github.com/skanderHarrabi/note-app/assets/36156046/c2c04601-13d3-4a46-9c39-4fc23396b1d1">
-<img width="1509" alt="Screenshot 2023-10-24 at 05 12 57" src="https://github.com/skanderHarrabi/note-app/assets/36156046/c7166363-a2e5-4e56-b6cd-57f4bc8e9a8b">
-<img width="1508" alt="Screenshot 2023-10-24 at 05 13 08" src="https://github.com/skanderHarrabi/note-app/assets/36156046/0dd69ecc-d3d4-49e5-87e5-d5368b03fc99">
 
